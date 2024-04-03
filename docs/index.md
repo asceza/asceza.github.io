@@ -1,6 +1,6 @@
 
 
-[link](https://github.com/asceza/asceza.github.io/blob/master/docs/pages/test.md)
+[link](https://asceza.github.io/docs/pages/test.md)
 
 Всем привет.
 Язык программирования Си предлагает возможность оперировать целочисленными значениями в четырех системах счисления.
