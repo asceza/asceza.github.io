@@ -1,6 +1,6 @@
 
 
-[link]([http://example.com](https://github.com/asceza/asceza.github.io/blob/master/docs/pages/test.md)
+[link](https://github.com/asceza/asceza.github.io/blob/master/docs/pages/test.md)
 
 Всем привет.
 Язык программирования Си предлагает возможность оперировать целочисленными значениями в четырех системах счисления.
