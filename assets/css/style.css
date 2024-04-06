@@ -1,17 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
 
 body {
-	border-top: 10px solid #E32636;
+	border-top: 10px solid #FE7600; /* полоса сверху */
 	margin: 0;
-	color: #333333;
-	background-color: #eee;
+	color: #FFFFFF; /* текст */
+	background-color: #05060B; /* фон страницы */
   font-family: "PT Mono", monospace;
   font-weight: 400;
   font-style: normal;
 }
 
 a {
-    text-decoration: none; /* Убираем подчёркивание */
+  text-decoration: none; /* убрать подчёркивание */
+  color: #FFFFFF; /* текст */
 }
 
 h1, h2, h3, h4 {
@@ -20,9 +21,9 @@ h1, h2, h3, h4 {
 	-webkit-margin-start: 0px;
 	-webkit-margin-end: 0px;
 	
-	border-bottom: 3px solid #E32636;
+	border-bottom: 3px solid #FE7600; /* подчёркивание */
 	display: inline-block;
-	color: #333333;
+	color: #FFFFFF; /* заголовки разделов */
 	font-weight: 600;		
 }
 
@@ -37,7 +38,7 @@ ul {
 }
 
 .container {
-	width: 50%;
+	width: 70%;
 	height: auto;
 
 	margin: auto; 
@@ -71,7 +72,7 @@ header ul li {
 }
 
 header ul li i {
-	color: #E32636;
+	color: #FE7600; /* пикто */
 	padding-right: 5px;
 	padding-left: 5px;
 	font-size: 18px;
@@ -86,7 +87,7 @@ article h2 {
 }
 
 article .header {
-	color: #E32636;
+	color: #FE7600; /* заголовки */
 	font-weight: 600;
 }
 
@@ -97,7 +98,7 @@ article .header span {
 
 article .right{
 	float: right;
-	width: 15%;
+	width: 20%;
 	font-weight: 600;
 	
 }
