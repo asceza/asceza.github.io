@@ -140,3 +140,11 @@ article .tech span {
 	font-weight: 600;
 	color: #E32636;
 }
+
+a:hover {
+  color: #FE7600; /* текст */
+}
+
+article a:hover .header {
+  color: #EEE; /* текст */
+}
