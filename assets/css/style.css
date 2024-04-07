@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
 
 body {
-	border-top: 10px solid #FE7600; /* полоса сверху */
+	border-top: 3px solid #FE7600; /* полоса сверху */
 	margin: 0;
 	color: #FFFFFF; /* текст */
 	background-color: #05060B; /* фон страницы */
