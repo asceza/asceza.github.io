@@ -15,6 +15,7 @@ a {
   color: #FFFFFF; /* текст */
 }
 
+
 h1, h2, h3, h4 {
 	-webkit-margin-before: 0px;
 	-webkit-margin-after: 0.5em;
@@ -147,4 +148,8 @@ a:hover {
 
 article a:hover .header {
   color: #EEE; /* текст */
+}
+
+.img_preview {
+	width: 700px;
 }
